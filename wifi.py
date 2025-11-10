@@ -121,7 +121,7 @@ HTML = """<!doctype html><html lang="en"><head>
 <body class="bg-gray-900 text-gray-100 min-h-screen">
 <header class="bg-gray-900 border-b border-gray-800 p-4 shadow-xl sticky top-0 z-10">
 <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
-<h1 class="text-2xl font-extrabold text-white flex items-center gap-3">📶 Wi-Fi Pro Dashboard</h1>
+<h1 class="text-2xl font-extrabold text-white flex items-center gap-3">📶 SLCI Wi-Fi Pro Dashboard</h1>
 <div class="flex flex-wrap justify-center space-x-4 text-sm font-medium text-gray-400">
 <span class="p-2 px-3 rounded-md bg-gray-800">Check every <b class="text-white">{{ interval }}s</b></span>
 <span class="p-2 px-3 rounded-md bg-gray-800">Networks: <b class="text-white">{{ total }}</b></span>
